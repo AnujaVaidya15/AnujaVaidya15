@@ -1,5 +1,9 @@
+# Hi 👋 I am Anuja Vaidya 
+
 # 💫 About Me:
-I’m an enthusiastic developer passionate about Artificial Intelligence and Machine Learning.  I love building data-driven applications that solve real-world problems.  My core strengths lie in Python, Java, and C, along with ML frameworks like TensorFlow and OpenCV.  I enjoy turning complex challenges into creative, practical solutions.  Recently, I’ve been exploring Generative AI, working with LLMs and multimodal models.  I’m deeply interested in combining ML with interactive web technologies.  Learning is a continuous journey for me — I stay curious and open to new innovations.  I regularly work on projects that apply AI for social good and education.  I believe in writing clean, readable code and collaborating to grow as a developer.  My goal is to create meaningful tech that informs, empowers, and inspires.
+I’m an enthusiastic developer passionate about Artificial Intelligence and Machine Learning.  I love building data-driven applications that solve real-world problems. My core strengths lie in Python, Java, and C, along with ML frameworks like TensorFlow and OpenCV.  I enjoy turning complex challenges into creative, practical solutions.  
+Recently, I’ve been exploring Generative AI, working with LLMs and multimodal models.  I’m deeply interested in combining ML with interactive web technologies. Learning is a continuous journey for me — I stay curious and open to new innovations.  
+I regularly work on projects that apply AI for social good and education.  I believe in writing clean, readable code and collaborating to grow as a developer. My goal is to create meaningful tech that informs, empowers, and inspires.
 
 
 ## 🌐 Socials:
@@ -11,9 +15,6 @@ I’m an enthusiastic developer passionate about Artificial Intelligence and Mac
 ![](https://github-readme-stats.vercel.app/api?username=AnujaVaidya15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AnujaVaidya15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujaVaidya15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnujaVaidya15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
